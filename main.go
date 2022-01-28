@@ -19,5 +19,5 @@ func main() {
 	fmt.Println(name,"is a teemager:",isATeenager)
 	// In total the expressions are : 9
 	// Expression is a "something" which can be evaluated
-	// to a single expression during runtime
+	// to a single value during runtime
 }
